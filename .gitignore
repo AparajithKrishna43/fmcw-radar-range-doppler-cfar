@@ -1,0 +1,16 @@
+# MATLAB autosaves and temporary files
+*.asv
+*.m~
+*.mat
+*.slxc
+*.mex*
+*.log
+
+# MATLAB Online / Desktop project caches
+.SimulinkCache/
+slprj/
+DerivedData/
+
+# OS specific files
+.DS_Store
+Thumbs.db
